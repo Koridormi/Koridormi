@@ -1,49 +1,59 @@
 # 👨‍💻 Full Stack Web Developer (in progress)
 
-Hi, I'm a 22-year-old developer from Argentina 🇦🇷
-I started my programming journey on **February 22, 2026**.
-
-My goal is to become a **Full Stack Web Developer**, currently focusing on building a strong foundation in **Frontend Development**.
+I'm a 22-year-old developer from Argentina 🇦🇷. I started coding on **February 22, 2026** and am focused on building a strong frontend foundation.
 
 ---
 
-## 🚀 Current Stack
+## 🚀 Skills & Technologies
 
-### In Progress
+### Learned / Comfortable
+- HTML (✅)
+- CSS (✅)
+- JavaScript (✅)
 
-HTML - CSS - JavaScript - Fetch API - APIs
+### Learning / In Progress
+- Node.js (⚠️)
+- Python (⚠️)
+- Functional Programming (⚠️)
+- Design Patterns (⚠️)
 
-### Learning / Testing
-
-Node.js
-
-### Not Started Yet
-
-Tailwind CSS - Bootstrap - SCSS - MySQL - PHP - MVC - React.js - Angular.js - Vue.js
+### To Learn
+- SCSS
+- Tailwind CSS
+- Bootstrap
+- Laravel
+- MySQL
+- PostgreSQL
+- MongoDB
+- React
+- Angular
+- Vue
+- PHP
+- MVC
+- C#
+- C++
 
 ---
 
 ## 📌 About Me
 
-* Focused on consistency and real progress
-* Building small projects to reinforce concepts
-* Currently learning core fundamentals before specializing
+- Consistent, steady learning approach  
+- Building small projects to apply new skills  
+- Strengthening core concepts before moving on  
 
 ---
 
 ## 🎯 Roadmap
 
-* Strengthen JavaScript fundamentals
-* Master DOM manipulation & async logic
-* Move into backend (Node.js)
-* Learn a frontend framework (React likely)
-* Become job-ready as a Junior Full Stack Developer
+- Improve JavaScript fundamentals  
+- Learn DOM manipulation & async programming  
+- Begin backend development with Node.js  
+- Study a front-end framework (e.g. React)  
+- Prepare for a Junior Full Stack Developer role  
 
 ---
 
-## 📊 Progress Tracking
+## 📊 Progress
 
-* 📅 Started: February 22, 2026
-* ⏳ Tracking long-term growth and experience
-
----
+- 📅 Started: February 22, 2026  
+- ⏳ Ongoing learning journey
