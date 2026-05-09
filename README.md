@@ -45,11 +45,13 @@ I'm a 22-year-old developer from Argentina 🇦🇷. I started coding on **Febru
 
 ## 🎯 Roadmap
 
-- Improve JavaScript fundamentals  
-- Learn DOM manipulation & async programming  
-- Begin backend development with Node.js  
-- Study a front-end framework (e.g. React)  
-- Prepare for a Junior Full Stack Developer role  
+- Expand frontend knowledge with modern frameworks (React / Next.js)  
+- Learn backend development with Node.js & Express  
+- Study databases such as MySQL, PostgreSQL, or MongoDB  
+- Improve application architecture and design patterns  
+- Learn testing tools and better debugging practices  
+- Build full stack projects with frontend + backend integration  
+- Prepare for a Junior Full Stack Web Developer role  
 
 ---
 
