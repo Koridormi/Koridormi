@@ -1,61 +1,39 @@
-# 👨‍💻 Full Stack Web Developer (in progress)
+<div align="center">
+👨‍💻 Full Stack Web Developer in Progress
 
-I'm a 22-year-old developer from Argentina 🇦🇷. I started coding on **February 22, 2026** and am focused on building a strong frontend foundation.
+Frontend-focused developer from Argentina 🇦🇷
+Started coding on February 22, 2026
 
----
+Building strong foundations in web development while moving step by step toward full stack development.
 
-## 🚀 Skills & Technologies
+</div>
+About Me
 
-### Learned / Comfortable
-- HTML (✅)
-- CSS (✅)
-- JavaScript (✅)
+I'm currently focused on improving my frontend skills with HTML, CSS and JavaScript, while also learning how modern web applications connect with APIs, browser storage and backend technologies.
 
-### Learning / In Progress
-- Node.js (⚠️)
-- Python (⚠️)
-- Functional Programming (⚠️)
-- Design Patterns (⚠️)
+I like building small projects to practice real concepts instead of only studying theory.
 
-### To Learn
-- SCSS
-- Tailwind CSS
-- Bootstrap
-- Laravel
-- MySQL
-- PostgreSQL
-- MongoDB
-- React
-- Angular
-- Vue
-- PHP
-- MVC
-- C#
-- C++
+Tech Stack
 
----
+Current foundation
+HTML · CSS · JavaScript · DOM · Fetch API · APIs · LocalStorage · IndexedDB
 
-## 📌 About Me
+Learning now
+Node.js · Python · Functional Programming · Design Patterns · Testing Basics
 
-- Consistent, steady learning approach  
-- Building small projects to apply new skills  
-- Strengthening core concepts before moving on  
+Next focus
+React · Next.js · Express.js · MySQL · PostgreSQL · MongoDB
 
----
+Planned later
+SCSS · Tailwind CSS · Bootstrap · PHP · Laravel · Vue · Angular · C# · C++
 
-## 🎯 Roadmap
+Current Direction
+Strengthen JavaScript and frontend architecture
+Learn a modern frontend framework
+Start building backend APIs with Node.js
+Study relational and non-relational databases
+Create full stack projects for my portfolio
+Progress
 
-- Expand frontend knowledge with modern frameworks (React / Next.js)  
-- Learn backend development with Node.js & Express  
-- Study databases such as MySQL, PostgreSQL, or MongoDB  
-- Improve application architecture and design patterns  
-- Learn testing tools and better debugging practices  
-- Build full stack projects with frontend + backend integration  
-- Prepare for a Junior Full Stack Web Developer role  
-
----
-
-## 📊 Progress
-
-- 📅 Started: February 22, 2026  
-- ⏳ Ongoing learning journey
+Started: February 22, 2026
+Goal: Junior Full Stack Web Developer
