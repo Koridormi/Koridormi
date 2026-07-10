@@ -1,39 +1,54 @@
 <div align="center">
-👨‍💻 Full Stack Web Developer in Progress
 
-Frontend-focused developer from Argentina 🇦🇷
-Started coding on February 22, 2026
+# 👨‍💻 Desarrollador Web Full Stack en formación
 
-Building strong foundations in web development while moving step by step toward full stack development.
+**Frontend-first developer · Argentina 🇦🇷**
+Empecé a programar el **22 de febrero de 2026**
+
+Construyendo una base sólida en desarrollo web, avanzando paso a paso hacia el perfil Full Stack.
 
 </div>
-About Me
 
-I'm currently focused on improving my frontend skills with HTML, CSS and JavaScript, while also learning how modern web applications connect with APIs, browser storage and backend technologies.
+---
 
-I like building small projects to practice real concepts instead of only studying theory.
+## Sobre mí
 
-Tech Stack
+Soy estudiante de desarrollo web con foco actual en **frontend**, lógica de programación y construcción de proyectos reales.
 
-Current foundation
-HTML · CSS · JavaScript · DOM · Fetch API · APIs · LocalStorage · IndexedDB
+Me interesa entender cómo funciona cada parte de una aplicación: la interfaz, el navegador, las APIs, la persistencia de datos y, progresivamente, el backend.
 
-Learning now
-Node.js · Python · Functional Programming · Design Patterns · Testing Basics
+También cuento con experiencia previa en **QA manual, soporte técnico y comunidades online**, lo que me ayuda a pensar en errores, usuarios y funcionamiento real de una aplicación.
 
-Next focus
-React · Next.js · Express.js · MySQL · PostgreSQL · MongoDB
+---
 
-Planned later
-SCSS · Tailwind CSS · Bootstrap · PHP · Laravel · Vue · Angular · C# · C++
+## Stack actual
 
-Current Direction
-Strengthen JavaScript and frontend architecture
-Learn a modern frontend framework
-Start building backend APIs with Node.js
-Study relational and non-relational databases
-Create full stack projects for my portfolio
-Progress
+| Base principal                | En práctica / formación        | Próximo foco                          |
+| ----------------------------- | ------------------------------ | ------------------------------------- |
+| `HTML` · `CSS` · `JavaScript` | `Node.js` · `MySQL` · `Python` | `React` · `TypeScript` · `Express.js` |
+| `DOM` · `Fetch API` · `APIs`  | `Testing básico` · `Debugging` | `PostgreSQL` · `MongoDB`              |
+| `LocalStorage` · `IndexedDB`  | `SCSS/Sass` · `Vite` · `Gulp`  | `Arquitectura frontend/backend`       |
 
-Started: February 22, 2026
-Goal: Junior Full Stack Web Developer
+---
+
+## Actualmente estoy enfocado en
+
+* Fortalecer JavaScript, DOM, asincronía y modularización.
+* Crear proyectos con funcionalidades reales, no solo maquetas visuales.
+* Practicar persistencia de datos con LocalStorage e IndexedDB.
+* Empezar a conectar frontend con backend, APIs y bases de datos.
+* Prepararme para un perfil Junior orientado a desarrollo web.
+
+---
+
+## Objetivo
+
+Convertirme en **Desarrollador Web Full Stack Junior**, con una base técnica clara, proyectos demostrables y criterio para construir aplicaciones funcionales, mantenibles y bien estructuradas.
+
+---
+
+## Progreso
+
+`Inicio:` 22 de febrero de 2026<br>
+`Enfoque actual:` Frontend sólido → Backend → Full Stack<br>
+`Estado:` Aprendizaje constante y proyectos prácticos<br>
