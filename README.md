@@ -1,54 +1,71 @@
 <div align="center">
 
-# 👨‍💻 Desarrollador Web Full Stack en formación
+# 👨‍💻 Sebastián Ortega
 
-**Frontend-first developer · Argentina 🇦🇷**
-Empecé a programar el **22 de febrero de 2026**
+### Web Developer · Frontend → Full Stack
 
-Construyendo una base sólida en desarrollo web, avanzando paso a paso hacia el perfil Full Stack.
+🇦🇷 Argentina · Programando desde **22/02/2026**
+
+Desarrollo proyectos web mientras construyo una base sólida en frontend, backend y bases de datos.
 
 </div>
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-Soy estudiante de desarrollo web con foco actual en **frontend**, lógica de programación y construcción de proyectos reales.
+Soy desarrollador web enfocado actualmente en **JavaScript y frontend**, avanzando progresivamente hacia un perfil **Full Stack**.
 
-Me interesa entender cómo funciona cada parte de una aplicación: la interfaz, el navegador, las APIs, la persistencia de datos y, progresivamente, el backend.
+Prefiero aprender construyendo proyectos reales: interfaces responsive, consumo de APIs, persistencia de datos, CRUDs y aplicaciones conectadas con bases de datos.
 
-También cuento con experiencia previa en **QA manual, soporte técnico y comunidades online**, lo que me ayuda a pensar en errores, usuarios y funcionamiento real de una aplicación.
-
----
-
-## Stack actual
-
-| Base principal                | En práctica / formación        | Próximo foco                          |
-| ----------------------------- | ------------------------------ | ------------------------------------- |
-| `HTML` · `CSS` · `JavaScript` | `Node.js` · `MySQL` · `Python` | `React` · `TypeScript` · `Express.js` |
-| `DOM` · `Fetch API` · `APIs`  | `Testing básico` · `Debugging` | `PostgreSQL` · `MongoDB`              |
-| `LocalStorage` · `IndexedDB`  | `SCSS/Sass` · `Vite` · `Gulp`  | `Arquitectura frontend/backend`       |
+Mi objetivo es entender el flujo completo de una aplicación, no solamente escribir código.
 
 ---
 
-## Actualmente estoy enfocado en
+## 🛠️ Stack
 
-* Fortalecer JavaScript, DOM, asincronía y modularización.
-* Crear proyectos con funcionalidades reales, no solo maquetas visuales.
-* Practicar persistencia de datos con LocalStorage e IndexedDB.
-* Empezar a conectar frontend con backend, APIs y bases de datos.
-* Prepararme para un perfil Junior orientado a desarrollo web.
-
----
-
-## Objetivo
-
-Convertirme en **Desarrollador Web Full Stack Junior**, con una base técnica clara, proyectos demostrables y criterio para construir aplicaciones funcionales, mantenibles y bien estructuradas.
+| Frontend                 | Backend & Datos    | Herramientas  |
+| ------------------------ | ------------------ | ------------- |
+| HTML · CSS · SCSS        | Node.js · Python   | Git · GitHub  |
+| JavaScript · DOM         | MySQL · PostgreSQL | Vite · Gulp   |
+| Fetch · REST APIs        | SQL                | Docker · n8n  |
+| Responsive Design        | JSON Server        | Postman       |
+| LocalStorage · IndexedDB |                    | Jira · Trello |
 
 ---
 
-## Progreso
+## 📚 Actualmente profundizando
 
-`Inicio:` 22 de febrero de 2026<br>
-`Enfoque actual:` Frontend sólido → Backend → Full Stack<br>
-`Estado:` Aprendizaje constante y proyectos prácticos<br>
+`JavaScript` · `Node.js` · `SQL` · `PostgreSQL` · `Python` · `Django` · `Testing`
+
+Próximo foco:
+
+`React` · `TypeScript` · desarrollo Full Stack
+
+---
+
+## 🔧 También trabajo con
+
+* Debugging, performance y seguridad web básica
+* Testing manual y fundamentos de testing automatizado
+* Service Workers y conceptos de PWA
+* Diseño responsive y Mobile First
+* Git y flujos básicos de trabajo con ramas
+
+---
+
+## 🎯 Dirección actual
+
+**Frontend sólido → Backend → Bases de datos → Full Stack**
+
+Busco seguir construyendo proyectos que integren frontend, APIs, backend y persistencia de datos mientras me preparo para oportunidades como **Junior Web Developer**.
+
+---
+
+<div align="center">
+
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `SQL` · `Python`
+
+**Aprender · Construir · Mejorar**
+
+</div>
