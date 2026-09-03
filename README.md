@@ -1,71 +1,67 @@
-<div align="center">
+<h1 align="center">Sebastián Ortega</h1>
 
-# 👨‍💻 Sebastián Ortega
+<p align="center">
+  <b>Full Stack Web Developer · Argentina 🇦🇷</b>
+</p>
 
-### Web Developer · Frontend → Full Stack
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Building+web+experiences;Learning+by+building;Frontend+%E2%86%92+Backend+%E2%86%92+Full+Stack"
+    alt="Typing SVG"
+  >
+</p>
 
-🇦🇷 Argentina · Programando desde **22/02/2026**
+<p align="center">
+  Desarrollo aplicaciones web enfocándome en entender el flujo completo:<br>
+  interfaz · lógica · APIs · persistencia · bases de datos · backend
+</p>
 
-Desarrollo proyectos web mientras construyo una base sólida en frontend, backend y bases de datos.
-
-</div>
-
----
-
-## 👋 Sobre mí
-
-Soy desarrollador web enfocado actualmente en **JavaScript y frontend**, avanzando progresivamente hacia un perfil **Full Stack**.
-
-Prefiero aprender construyendo proyectos reales: interfaces responsive, consumo de APIs, persistencia de datos, CRUDs y aplicaciones conectadas con bases de datos.
-
-Mi objetivo es entender el flujo completo de una aplicación, no solamente escribir código.
-
----
-
-## 🛠️ Stack
-
-| Frontend                 | Backend & Datos    | Herramientas  |
-| ------------------------ | ------------------ | ------------- |
-| HTML · CSS · SCSS        | Node.js · Python   | Git · GitHub  |
-| JavaScript · DOM         | MySQL · PostgreSQL | Vite · Gulp   |
-| Fetch · REST APIs        | SQL                | Docker · n8n  |
-| Responsive Design        | JSON Server        | Postman       |
-| LocalStorage · IndexedDB |                    | Jira · Trello |
+<p align="center">
+  <a href="https://sebastian-web.netlify.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/Koridormi?tab=repositories">Repositorios</a>
+</p>
 
 ---
 
-## 📚 Actualmente profundizando
+<h2 align="center">Sobre mí</h2>
 
-`JavaScript` · `Node.js` · `SQL` · `PostgreSQL` · `Python` · `Django` · `Testing`
+Mi base principal está en <b>JavaScript y desarrollo frontend</b>, mientras incorporo backend y bases de datos para trabajar sobre aplicaciones cada vez más completas.
 
-Próximo foco:
+Prefiero aprender construyendo: interfaces responsive, consumo de APIs, persistencia de datos, CRUDs y proyectos conectados con bases de datos.
 
-`React` · `TypeScript` · desarrollo Full Stack
-
----
-
-## 🔧 También trabajo con
-
-* Debugging, performance y seguridad web básica
-* Testing manual y fundamentos de testing automatizado
-* Service Workers y conceptos de PWA
-* Diseño responsive y Mobile First
-* Git y flujos básicos de trabajo con ramas
+<p align="center">
+  <code>Build → Debug → Understand → Improve</code>
+</p>
 
 ---
 
-## 🎯 Dirección actual
+<h2 align="center">Stack</h2>
 
-**Frontend sólido → Backend → Bases de datos → Full Stack**
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,python,mysql,postgres,git,github,vscode,vite,docker"
+    alt="Tech Stack"
+  >
+</p>
 
-Busco seguir construyendo proyectos que integren frontend, APIs, backend y persistencia de datos mientras me preparo para oportunidades como **Junior Web Developer**.
+<p align="center">
+  <b>Frontend</b><br>
+  HTML · CSS · SCSS · JavaScript · DOM · Fetch API · REST APIs
+</p>
+
+<p align="center">
+  <b>Backend & Data</b><br>
+  Node.js · Python · SQL · MySQL · PostgreSQL · LocalStorage · IndexedDB
+</p>
+
+<p align="center">
+  <b>Tools</b><br>
+  Git · GitHub · Vite · Gulp · npm · Docker · n8n
+</p>
 
 ---
 
-<div align="center">
-
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `SQL` · `Python`
-
-**Aprender · Construir · Mejorar**
-
-</div>
+<p align="center">
+  <i>Código que entiendo. Proyectos que puedo explicar.</i>
+</p>
